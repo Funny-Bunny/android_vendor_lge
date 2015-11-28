@@ -152,6 +152,7 @@ PRODUCT_COPY_FILES := \
     vendor/lge/hammerhead/proprietary/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so:qcom \
     vendor/lge/hammerhead/proprietary/libdsutils.so:system/vendor/lib/libdsutils.so:qcom \
     vendor/lge/hammerhead/proprietary/libFuzzmmstillomxenc.so:system/vendor/lib/libFuzzmmstillomxenc.so:qcom \
+    vendor/lge/hammerhead/proprietary/libfmas.so:system/lib/soundfx/libfmas.so:qcom \
     vendor/lge/hammerhead/proprietary/libgeofence.so:system/vendor/lib/libgeofence.so:qcom \
     vendor/lge/hammerhead/proprietary/libgsl.so:system/vendor/lib/libgsl.so:qcom \
     vendor/lge/hammerhead/proprietary/libidl.so:system/vendor/lib/libidl.so:qcom \
